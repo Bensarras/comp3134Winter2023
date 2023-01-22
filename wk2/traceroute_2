@@ -1,0 +1,16 @@
+C:\Users\Beenja>tracert www.crunchyroll.com
+
+Traza a la dirección www.crunchyroll.com [172.64.147.123]
+sobre un máximo de 30 saltos:
+
+  1    <1 ms    <1 ms    <1 ms  dlinkrouter [192.168.100.1]
+  2     1 ms    <1 ms    <1 ms  mynetwork [192.168.2.1]
+  3     6 ms     7 ms     9 ms  10.11.7.57
+  4     *        *        *     Tiempo de espera agotado para esta solicitud.
+  5     3 ms     4 ms     2 ms  tcore3-toronto63_39.net.bell.ca [64.230.59.202]
+  6     *        *        3 ms  cr01-toroonxnhe9-bundle-ether4.net.bell.ca [142.124.127.165]
+  7     2 ms     2 ms     2 ms  cr01-toroonxnhe9_bundle-ether10.net.bell.ca [142.124.127.37]
+  8     *        *        *     Tiempo de espera agotado para esta solicitud.
+  9     2 ms     2 ms     2 ms  172.64.147.123
+
+Traza completa.
