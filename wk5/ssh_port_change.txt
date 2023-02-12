@@ -1,0 +1,3 @@
+service ssh restart //for restarting or using the webpage option
+$ ssh root@159.203.21.7 -p 2222 login using port 2222
+benjamin sarras 101324243
