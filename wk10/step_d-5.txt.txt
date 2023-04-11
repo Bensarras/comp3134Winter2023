@@ -1,0 +1,3 @@
+i dont see any special issue
+
+ i can see an array with the files and directories inside

@@ -1,0 +1,19 @@
+Domain:youtube.com
+Registrar:MarkMonitor Inc.
+Registered On:2005-02-15
+
+Domain:google.com
+Registrar:MarkMonitor Inc.
+Registered On:1997-09-15
+
+Domain:crunchyroll.com
+Registrar:Amazon Registrar, Inc.
+Registered On:2006-05-14
+
+Domain:facebook.com
+Registrar:RegistrarSafe, LLC
+Registered On:1997-03-29
+
+Domain:ikea.com
+Registrar:CSC Corporate Domains, Inc.
+Registered On:1995-07-29
